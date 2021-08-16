@@ -16,6 +16,8 @@
   "devDependencies": {
     "@webpack-cli/generators": "^2.2.0",
     "awesome-typescript-loader": "^5.2.1",
+    "grpc_tools_node_protoc_ts": "^5.3.1",
+    "grpc-tools": "^1.11.2",
     "ts-loader": "^9.2.5",
     "typescript": "^3.9.10",
     "webpack": "^5.50.0",
